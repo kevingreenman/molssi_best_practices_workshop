@@ -1,7 +1,7 @@
 molecool
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/kevingreenman/molecool/workflows/CI/badge.svg)](https://github.com/kevingreenman/molecool/actions?query=workflow%3ACI)
+![CI](https://github.com/kevingreenman/molssi_best_practices_workshop/workflows/CI/badge.svg)(https://github.com/kevingreenman/molecool/actions?query=workflow%3ACI)
 [![codecov](https://codecov.io/gh/kevingreenman/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/kevingreenman/molecool/branch/master)
 
 
