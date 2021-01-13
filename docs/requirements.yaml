@@ -4,8 +4,10 @@ dependencies:
     # Base depends
   - python
   - pip
+  - numpy
+  - matplotlib
 
 
   # Pip-only installs
-  - pip:
+  #- pip:
 
